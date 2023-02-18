@@ -4,7 +4,7 @@
     {
     "matchHost": "http://52.52.158.123:8082/artifactory/libs-release-local",
     "hostType": "maven",
-    "username": "deployment",
+    "username": "deploybot",
     "encrypted": {
         "password": "wcBMA8xOaBJvzJNbAQf+KEh4kel+aN/zpvcVNhOvnOP3DegqHc0xzNHRCSkRzMgrpDbZmBpQxv5wOBSa1ONjaRV9tSd0NlfjvytyASBVXUPiTn5zWLPobk8BeFitCdfZpqzJNavOvuyQNbsD1Qj5D0oNT2bCBBpDgONX3Ivt+B1HYxQxLtdDYianaJi3mOCLNqxg//RjjgzGblAcuDC97IdL+HWcH5+AAM1HAL0+ISjYmjnNYGfcO0jNod9e8IaXZGoTDpflwRp/zDcBwcnrelvRuXD3At9u1K5cj5iD0/rZ7Y2i728ordRmNI9BIozoduEmr3OHz3stEPff/aLIxjRNw+i6DQuyD/+wldMcjtJdAYHBtdKvJTFCyKkdsJKMb4W0OFDZiwMtZs09N6Jl5m6TRIkSnUbQ9xCpb4uZQC1YaHY7eMoINE0G5Whdb26LnKbIT0oZ6Ek1YLdn5PYmDqI7R/mf68oxjFwXEPMh"
         }
