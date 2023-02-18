@@ -1,5 +1,15 @@
 {
   "settingsInheritedFrom": "samq-democorp/whitesource-config@main",
+  "remediateSettings": {
+    "workflowRules": {
+      "enabled": true
+    },
+    "enableRenovate": true,
+    "extends": [
+      "config:base",
+      "github>whitesource/merge-confidence:beta"
+    ]
+  },
   "hostRules": [
     {
     "matchHost": "http://52.52.158.123:8082/artifactory/libs-release-local",
