@@ -2,11 +2,11 @@
   "settingsInheritedFrom": "samq-democorp/whitesource-config@main",
   "hostRules": [
     {
-    "matchHost": "https://maven.pkg.github.com/samq-democorp/vtrade-common",
+    "matchHost": "http://52.52.158.123:8082/artifactory/libs-release-local",
     "hostType": "maven",
-    "username": "samq-ws",
+    "username": "deployment",
     "encrypted": {
-        "token": "wcBMA8xOaBJvzJNbAQf/a/J07G2Qbr+vLk+LpUcSRP59YCxSNW+VsRCA7bju3pMNzt567jo87APNYeHCEGdsXSxdJIXlOjuX6vo7IK2FqrIseEVOF8CG3V9e7tHvat6AnAoZXFesylv8vkkhRXMTqUSXCzArDJgtVMAEcj0nP5JkwBz3HHusHy17PekhKbMjruLn2F6lS/zJdZ54LCq7/MmLd9uC8lGvuuAxWrJeQreXSpDjPnqd20XCqlTgF5cZtp3IDMmpZhBDSC7U4mCK7U8TyfSAbYJHmX768OquQ5voKXWPOKSEFC2lPl/TTICEelWKUZYxJEOPDG6yomdUptUOwWbI6dYRnl+J1bHmHtJ8ATBNql7Njxnc7/pm+SroiO8tXYljVR5ymmzxcBCOobdKpjvTBQnFBZJ+Kopd08F0QKI144gsbnRROzslisucovSU8LPBUK18gA5iE2aSvretTEe8/vZXEvD4ZKEPWoDZ/1Pj3ahsWaUlVCA4rDStqBAjEshQfDCGMdi3dw"
+        "password": "wcBMA8xOaBJvzJNbAQf+KEh4kel+aN/zpvcVNhOvnOP3DegqHc0xzNHRCSkRzMgrpDbZmBpQxv5wOBSa1ONjaRV9tSd0NlfjvytyASBVXUPiTn5zWLPobk8BeFitCdfZpqzJNavOvuyQNbsD1Qj5D0oNT2bCBBpDgONX3Ivt+B1HYxQxLtdDYianaJi3mOCLNqxg//RjjgzGblAcuDC97IdL+HWcH5+AAM1HAL0+ISjYmjnNYGfcO0jNod9e8IaXZGoTDpflwRp/zDcBwcnrelvRuXD3At9u1K5cj5iD0/rZ7Y2i728ordRmNI9BIozoduEmr3OHz3stEPff/aLIxjRNw+i6DQuyD/+wldMcjtJdAYHBtdKvJTFCyKkdsJKMb4W0OFDZiwMtZs09N6Jl5m6TRIkSnUbQ9xCpb4uZQC1YaHY7eMoINE0G5Whdb26LnKbIT0oZ6Ek1YLdn5PYmDqI7R/mf68oxjFwXEPMh"
         }
     }
 ]
